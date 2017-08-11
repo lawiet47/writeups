@@ -1,3 +1,4 @@
 # Malware_Witeups
 
-My analysis of malwares :)
+My analysis of malwares
+Zararlı Yazılımların Analizi :)
