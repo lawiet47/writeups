@@ -1,5 +1,5 @@
 
-Hello, today we going to take a look at the quick analysis of infamous Dridex banking trojan, which stole over 40 million dollars in 2015. Over the years authors of Dridex have modified its structure, code base in hopes of improving its capabilities. Which is why samples you may find might differ from another. Below is the hash value of the sample that i analyzed.
+Hello, today we are going to take a look at the quick analysis of infamous Dridex banking trojan, which stole over 40 million dollars in 2015. Over the years authors of Dridex have modified its structure, code base in hopes of improving its capabilities. Which is why samples you may find might differ from another. Below is the hash value of the sample that i analyzed.
 
 SHA256: e30b76f9454a5fd3d11b5792ff93e56c52bf5dfba6ab375c3b96e17af562f5fc
 
