@@ -89,7 +89,7 @@ The `lib_decryptor` function has a loop that goes through certain blocks of memo
 ![get_module_handle](https://user-images.githubusercontent.com/27059441/32143064-cda3d6d0-bcb4-11e7-8fec-421814cb97ba.PNG)
 
 
-By placing a breakpoint in the loop we can see a certain strings appear in the memory
+By placing a breakpoint in the loop we can see certain strings appear in the memory
 
 ![decrypted_lib_advapi](https://user-images.githubusercontent.com/27059441/32143215-51c679f2-bcb7-11e7-94e5-dbd675b3d545.PNG)
 
