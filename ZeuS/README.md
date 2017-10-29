@@ -82,7 +82,7 @@ The `get_api` function in itself calls two functions `lib_decryptor` & `string_d
 
 ![string_deobfuscator](https://user-images.githubusercontent.com/27059441/32143052-ae5ccdd6-bcb4-11e7-86aa-e9d1fe6660df.PNG)
 
-The `lib_decryptor` function has a loop that goes through a certain blocks of memory and decrypts the contents then makes a call to `LoadLibraryA` or `GetModuleHandleA` to load the module.
+The `lib_decryptor` function has a loop that goes through certain blocks of memory and decrypts the contents then makes a call to `LoadLibraryA` or `GetModuleHandleA` to load the module.
 
 ![lib_decryptor loop](https://user-images.githubusercontent.com/27059441/32143058-bcb57694-bcb4-11e7-9bff-88e57a15bcc8.PNG)
 
