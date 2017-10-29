@@ -99,7 +99,7 @@ Here is the list of the loaded modules
 
 ![loaded_modules](https://user-images.githubusercontent.com/27059441/32143238-92cd2e5a-bcb7-11e7-86d2-bb0fd866cf8e.png)
 
-The `string_deobfuscator` function is similar to the `lib_decryptor` function. It also has a loop that goes through a certain blocks of memory to decrypt the strings.
+The `string_deobfuscator` function is similar to the `lib_decryptor` function. It also has a loop that goes through certain blocks of memory to decrypt the string.
 
 ![string_deobfuscator loop](https://user-images.githubusercontent.com/27059441/32143244-9e67b802-bcb7-11e7-97cd-21e939fa4ad2.PNG)
 
