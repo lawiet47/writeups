@@ -121,7 +121,7 @@ The encryption algorithm is `AES_128_CBC`. Malware sends the encrypted informati
 
 ![image](https://user-images.githubusercontent.com/27059441/55144114-2e26b400-5151-11e9-97e9-7651463d416d.png)
 
-![image](https://user-images.githubusercontent.com/27059441/55144152-3aab0c80-5151-11e9-9718-9fbf0db21918.png)
+![DONEcookie_valuıe](https://user-images.githubusercontent.com/27059441/55187555-660e1580-51aa-11e9-97f0-325f60ebd84a.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/27059441/55187347-d8322a80-51a9-11e9-86cd-27a9d8340c2e.PNG)
 
